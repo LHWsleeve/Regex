@@ -1,1 +1,1 @@
-regx
+regex
